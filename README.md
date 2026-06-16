@@ -12,7 +12,7 @@ Python
 TensorFlow
 NumPy
 Matplotlib
-Model
+# Model
 Embedding Layer
 LSTM Layer
 Dense Layer
